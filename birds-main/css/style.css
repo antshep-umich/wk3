@@ -46,6 +46,10 @@ tbody > tr > th{
     border-bottom: none;
 }
 
+tr{
+    transition: background-color .3s ease-in-out;
+}
+
 tr:hover, tr:nth-child(even):hover, tr:nth-child(odd):hover{
     background-color: rgb(126, 8, 32,.25);
 }
@@ -62,4 +66,6 @@ table{
     border-spacing: 0px;
     border-right: 2px solid #000000;
     margin:auto;
+    border-radius: 20px;
+    overflow:hidden;
 }
