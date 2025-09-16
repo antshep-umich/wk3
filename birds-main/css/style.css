@@ -29,7 +29,7 @@ body{
 
 td{
     text-align: center;
-    border-bottom: 2px #000000;
+    border-bottom: 2px solid #000000;
     padding: 10px;
 }
 
@@ -44,7 +44,7 @@ thead > tr > th{
 
 tbody > tr > th{
     border: 2px solid #000000;
-    border-bottom: none;
+    border-top: none;
 }
 
 tr{
