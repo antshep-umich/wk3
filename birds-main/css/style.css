@@ -16,6 +16,7 @@ h1{
     margin:auto;
     line-height: 2;
     font-family: syncopate, sans-serif;
+    text-align: center;
 }
 
 body{
@@ -68,4 +69,11 @@ table{
     margin:auto;
     border-radius: 20px;
     overflow:hidden;
+}
+
+footer{
+    position:fixed;
+    bottom: 0px;
+    left:0px;
+    width:100%;
 }
