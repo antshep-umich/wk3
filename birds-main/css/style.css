@@ -65,7 +65,7 @@ tr:nth-child(odd){
 
 table{
     border-spacing: 0px;
-    /* border-right: 2px solid #000000; */
+    border-right: 2px solid #000000;
     margin:auto;
     border-radius: 20px;
     overflow:hidden;
